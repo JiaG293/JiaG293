@@ -7,7 +7,7 @@
 <!-- Social Media -->
 <p align="center">Contact me</p>
 <div align="center">
-  <a href="https://github.com/JiaG" target="_blank" rel="noreferrer noopener">
+  <a href="https://github.com/JiaG293" target="_blank" rel="noreferrer noopener">
     <img alt="GitHub" src="https://img.shields.io/badge/@JiaG293-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank" rel="noreferrer noopener">
